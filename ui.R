@@ -46,8 +46,8 @@ shinyUI(fluidPage(
                          em('4. NA just indicates that we already gave the best prediction above'),
                          br(),br(),
                          h3('Important Links'),br(),
-                         em('1. Link to the Pitch Presentation:'),br(),
-                         em('2. Link to Github repo for source codes:')
+                         em('1. Link to the Pitch Presentation: https://rpubs.com/deepanshu_rustagi88/662377'),br(),
+                         em('2. Link to Github repo for source codes: https://github.com/deepanshur3006/WordPredictCapstone')
             )
            
             
